@@ -1,0 +1,100 @@
+td a{
+    color:  #52759aed;
+    text-decoration: none;
+    background-color: transparent;
+    font-size: 14px;
+}
+.btn-right{
+   	float: right;
+    margin-right: 32px !important;
+    width: 48%;
+    margin: 12px;
+    padding: 7px;
+}
+
+.C_breadcrumb {
+    display: -ms-flexbox;
+    display: flex;
+    -ms-flex-wrap: wrap;
+    flex-wrap: wrap;
+    padding: .75rem 0;
+    margin-bottom: 1rem;
+    list-style: none;
+     background-color: #e9ecef00 !important; 
+    /* border-radius: .25rem; */
+    border-bottom: 1px inset;
+    width: 150%;
+}
+
+.breadcrumb-item{
+	    color: #31b6e9;
+    font-size: 15px;
+    font-weight: normal;
+}
+.table-earning{
+	 border-bottom: none !important;
+}
+.table-earning thead th {
+    background: #333;
+    font-size: 14px;
+    font-weight: 400 !important;
+    color: #e5e5e5;
+    vertical-align: middle;
+    font-weight: 400;
+    text-transform: capitalize;
+    line-height: 1;
+    padding: 22px 40px;
+    white-space: nowrap;
+    height: 34px;
+    /* padding: 12px 40px!important; */
+}
+.table-earning tbody td {
+    color: #6f6969;
+    padding: 13px !important;
+    white-space: nowrap;
+    font-size: 14px !important;
+}
+.dataTables_wrapper .dataTables_paginate .paginate_button {
+    box-sizing: border-box;
+    display: inline-block;
+    min-width: 1.5em;
+    padding: 0 !important;
+    margin-left: 2px;
+    text-align: center;
+    text-decoration: none !important;
+    cursor: pointer;
+    color: #333 !important;
+    border: 1px solid transparent;
+    border-radius: 2px;
+}
+
+.formclearfix{
+	    padding: 10px;
+    border-bottom: 1px inset;
+    margin-bottom: 19px;
+
+}
+
+.pull-left {
+    float: left;
+    margin: 2px;
+}
+
+h3 a{
+         color: #59c086;
+    font-size: 20px;
+}
+
+.main-title-para{
+        position: absolute;
+    margin: 0;
+    padding: 0;
+    color: #ac9697;
+    text-align: center;
+    font-weight: 100;
+    font-size: 16px;
+    top: 60%;
+    right: 0%;
+    -webkit-transform: translate3d(-50%,-50%,0);
+    transform: translate3d(-50%,-50%,0);
+}
